@@ -1,0 +1,13 @@
+# Bastien Raynaud Photographe
+> Site officiel de Bastien Raynaud Photographe. Photographe de mariage à Paris.
+
+## Pages principales
+- https://www.braynaud-photographe.fr/ : Page d’accueil du site Bastien Raynaud Photographe.
+- https://www.braynaud-photographe.fr/mariage-engagement : Page dédiée à la photographie de mariage et aux séances d’engagement.
+- https://www.braynaud-photographe.fr/portrait-studio : Page dédiée aux séances de portrait en studio à Paris par le photographe professionnel Bastien Raynaud.
+- https://www.braynaud-photographe.fr/a-propos-de-moi : Page « À propos » présentant le photographe et sa démarche.
+- https://www.braynaud-photographe.fr/mes-tarifs : Page présentant les informations tarifaires.
+- https://www.braynaud-photographe.fr/contact : Page de contact du site.
+- https://www.braynaud-photographe.fr/mariage-engagement#portfolio-mariage : La section portfolio
+- https://www.braynaud-photographe.fr/mariage-engagement#faq : La section FAQ
+- https://www.braynaud-photographe.fr/mariage-engagement#demande-devis-mariage : La section pour demander un devis
